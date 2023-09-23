@@ -1,0 +1,26 @@
+{
+    "name": "package.json",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "pinia": "^2.0.28",
+        "vue": "^3.2.45",
+        "vue-router": "^4.1.6"
+
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.0.0",
+        "prettier": "2.8.3",
+        "vite": "^4.0.0"
+    },
+    "prettier": {
+        "printWidth": 120,
+        "singleQuote": true,
+        "tabWidth": 2
+    }
+}
