@@ -1,4 +1,8 @@
-# [Демо версия сайта]()
+
+
+
+https://github.com/tonyap92/drag-and-drop-inventory/assets/114396404/ca3781b2-62aa-4650-bc00-f694c5cd5806
+
 
 ## Описание тестового задания
 
